@@ -24,3 +24,13 @@ After analyzing and implementing the project, several types of relationships hav
 - Seats and Reservations → One-to-Many: A user can reserve multiple seats for the same show, meaning a reservation can include multiple seats.
 - Shows and Reservations → One-to-Many: A single show can have multiple reservations.
 - Shows and Actors → Many-to-Many: A show can feature multiple actors, and an actor can perform in multiple shows.
+
+
+## Logical Model
+
+![ModelLogic](https://github.com/user-attachments/assets/4ff9e58b-3337-487b-8ae2-5f12b72374cf)
+
+## Relational Model
+
+
+![ModelRelational](https://github.com/user-attachments/assets/42b4fe08-c59d-4e6a-84cb-b6611d8ee1a9)
