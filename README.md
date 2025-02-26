@@ -47,4 +47,14 @@ Not null constraints indicate that certain columns in a table cannot remain unfi
 
 Check constraints are necessary to impose specific conditions on the data entered into a table. These constraints ensure that the data adheres to certain rules or conditions defined by the user. Thanks to these constraints, in our application, we can check if the email address follows a certain format, if the phone number consists of ten digits, if the total price is a positive number, if the type of a show is Opera or Balet, if the number of seats per row is between 1 and 18, or if the number of rows is between the characters ‘A’ and ‘N’.
 
+## Connecting to the database
 
+![Screenshot (30)](https://github.com/user-attachments/assets/0d7b9dd5-ed9c-405e-9633-6794f042b48c)
+
+## Screenshots from the user interface 
+
+
+![Screenshot (12)](https://github.com/user-attachments/assets/6c131fb0-ccd5-4edc-97d1-3bd390cc11ae)
+
+![Screenshot (38)](https://github.com/user-attachments/assets/6421345c-6518-40c0-b973-61dc588b2669)
+![Screenshot (40)](https://github.com/user-attachments/assets/4eb68a21-7e16-441f-a74c-54b75c7df3a4)
